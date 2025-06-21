@@ -111,9 +111,4 @@ If you would like to contribute to this project, feel free to submit a pull requ
 
 You can either update your existing repo with these new features or create a new repo for this enhanced version — whichever fits your workflow best.
 
----
-
-## Contact
-
-For any questions or feedback, please open an issue or contact me at [your-email@example.com].
 
