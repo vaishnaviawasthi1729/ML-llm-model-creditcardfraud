@@ -88,6 +88,9 @@ To run the project locally, ensure you have Python installed.
 
 - Logistic Regression achieves approximately 95% accuracy on the balanced dataset.
 - TinyLlama generates clear, non-technical explanations of the model and key features.
+- ![Result](result-browser.png)
+
+  
 
 ---
 
